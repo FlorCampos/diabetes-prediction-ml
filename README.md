@@ -39,5 +39,5 @@ This project predicts diabetes using the Pima Indians Diabetes Dataset with clas
 Predicting whether or not a person has diabetes using medical information (age, glucose level, blood pressure, BMI, etc.).
 
 This is a binary classification problem:
-0 → Does not have diabetes
-1 → Has diabetes
+- 0 → Does not have diabetes
+- 1 → Has diabetes
