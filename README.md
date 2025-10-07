@@ -29,8 +29,8 @@ This project predicts diabetes using the Pima Indians Diabetes Dataset with clas
 - Specificity: 0.75
 
 ## 📂 Project Structure
-│── data/diabetes.csv
-│── notebooks/Diabetes_Prediction.ipynb
-│── requirements.txt
-│── README.md
-│── .gitignore
+- data/diabetes.csv
+- notebooks/Diabetes_Prediction.ipynb
+- requirements.txt
+- README.md
+- .gitignore
